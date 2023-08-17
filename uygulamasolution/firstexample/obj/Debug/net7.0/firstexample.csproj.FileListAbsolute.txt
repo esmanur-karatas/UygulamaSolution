@@ -1,0 +1,14 @@
+C:\Users\DELL\Desktop\C#\uygulamasolution\firstexample\bin\Debug\net7.0\firstexample.exe
+C:\Users\DELL\Desktop\C#\uygulamasolution\firstexample\bin\Debug\net7.0\firstexample.deps.json
+C:\Users\DELL\Desktop\C#\uygulamasolution\firstexample\bin\Debug\net7.0\firstexample.runtimeconfig.json
+C:\Users\DELL\Desktop\C#\uygulamasolution\firstexample\bin\Debug\net7.0\firstexample.dll
+C:\Users\DELL\Desktop\C#\uygulamasolution\firstexample\bin\Debug\net7.0\firstexample.pdb
+C:\Users\DELL\Desktop\C#\uygulamasolution\firstexample\obj\Debug\net7.0\firstexample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\C#\uygulamasolution\firstexample\obj\Debug\net7.0\firstexample.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\C#\uygulamasolution\firstexample\obj\Debug\net7.0\firstexample.AssemblyInfo.cs
+C:\Users\DELL\Desktop\C#\uygulamasolution\firstexample\obj\Debug\net7.0\firstexample.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\C#\uygulamasolution\firstexample\obj\Debug\net7.0\firstexample.dll
+C:\Users\DELL\Desktop\C#\uygulamasolution\firstexample\obj\Debug\net7.0\refint\firstexample.dll
+C:\Users\DELL\Desktop\C#\uygulamasolution\firstexample\obj\Debug\net7.0\firstexample.pdb
+C:\Users\DELL\Desktop\C#\uygulamasolution\firstexample\obj\Debug\net7.0\firstexample.genruntimeconfig.cache
+C:\Users\DELL\Desktop\C#\uygulamasolution\firstexample\obj\Debug\net7.0\ref\firstexample.dll
